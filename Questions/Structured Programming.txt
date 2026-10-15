@@ -1,0 +1,63 @@
+Which function is the usual starting point of a C program?
+A) start()
+B) run()
+C) main()     
+D) begin()
+C
+---
+Which header declares printf()?
+A) <stdio.h>    
+B) <stdlib.h>
+C) <string.h>   
+D) <math.h>
+A
+---
+What is the format specifier for an int in printf()?
+A) %c    
+B) %f
+C) %s    
+D) %d
+D
+---
+Which operator gives the remainder after integer division?
+A) /    
+B) %
+C) //   
+D) &
+B
+---
+Which keyword declares a read-only variable?
+A) static    
+B) const
+C) fixed     
+D) final
+B
+---
+What is the index of the first element in a C array?
+A) 0    
+B) 1
+C) -1   
+D) It depends on the array
+A
+---
+Which loop checks its condition before each iteration?
+A) do-while    
+B) while
+C) Both for and while    
+D) Neither
+C
+---
+Which function compares two strings in the standard C library?
+A) strcopy()    
+B) strcmp()
+C) strlength()  
+D) stringcompare()
+B
+---
+What does sizeof return?
+A) The number of array elements    
+B) The size in bytes
+C) The memory address              
+D) The value of a variable
+B
+---

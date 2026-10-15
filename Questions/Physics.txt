@@ -1,0 +1,70 @@
+What is the SI unit of force?
+A) Joule
+B) Newton
+C) Watt
+D) Pascal
+B
+---
+Which quantity is the rate of change of velocity?
+A) Acceleration
+B) Momentum
+C) Displacement
+D) Force
+A
+---
+What is the approximate acceleration due to gravity near Earth's surface?
+A) 3.8 m/s²
+B) 6.7 m/s²
+C) 9.8 m/s²
+D) 12.0 m/s²
+C
+---
+Which equation gives the kinetic energy of an object?
+A) mv
+B) mgh
+C) Fd
+D) ½mv²
+D
+---
+What is the SI unit of electric current?
+A) Ampere
+B) Volt
+C) Ohm
+D) Coulomb
+A
+---
+In a vacuum, what happens to the speed of light?
+A) It depends on the light’s color.
+B) It is approximately 3.0 × 10⁸ m/s.
+C) It is zero.
+D) It depends on the source’s speed.
+B
+---
+Which law states that every action has an equal and opposite reaction?
+A) Newton’s first law
+B) Newton’s second law
+C) Newton’s third law
+D) The law of universal gravitation
+C
+---
+What is the SI unit of frequency?
+A) Hertz
+B) Tesla
+C) Joule
+D) Meter
+A
+---
+Which type of electromagnetic wave has the longest wavelength?
+A) X-rays
+B) Visible light
+C) Ultraviolet
+D) Radio waves
+D
+---
+What is the approximate value of the speed of sound in air at room temperature?
+A) 34 m/s
+B) 343 m/s
+C) 3,430 m/s
+D) 30,000 m/s
+B
+---
