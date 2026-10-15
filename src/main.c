@@ -49,4 +49,6 @@ int main()
     //printf("Loop breaked\n");
     getchar();
     clear_screen();
+
+    return 0;
 }
