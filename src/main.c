@@ -21,6 +21,8 @@ int main()
         switch (menu_opt)
         {
         case 1:
+            clear_screen();
+            print_banner();
             start_quiz_session();
             break;
         case 2:

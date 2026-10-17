@@ -60,9 +60,6 @@ void print_menu()
 
 void start_quiz_session()
 {
-    clear_screen();
-    print_banner();
-
     static char username[30];
     printf("Enter your name : ");
     fgets(username, 30, stdin);
