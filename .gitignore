@@ -1,0 +1,5 @@
+#ignores the compiled binary
+quiz-core
+#ignores test files
+test*
+src/test*
